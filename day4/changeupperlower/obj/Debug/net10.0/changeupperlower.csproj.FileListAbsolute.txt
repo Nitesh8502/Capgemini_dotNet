@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\day4\changeupperlower\bin\Debug\net10.0\changeupperlower.exe
+C:\Users\nites\dotanet\day4\changeupperlower\bin\Debug\net10.0\changeupperlower.deps.json
+C:\Users\nites\dotanet\day4\changeupperlower\bin\Debug\net10.0\changeupperlower.runtimeconfig.json
+C:\Users\nites\dotanet\day4\changeupperlower\bin\Debug\net10.0\changeupperlower.dll
+C:\Users\nites\dotanet\day4\changeupperlower\bin\Debug\net10.0\changeupperlower.pdb
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.AssemblyInfo.cs
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.dll
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\refint\changeupperlower.dll
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.pdb
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\changeupperlower.genruntimeconfig.cache
+C:\Users\nites\dotanet\day4\changeupperlower\obj\Debug\net10.0\ref\changeupperlower.dll

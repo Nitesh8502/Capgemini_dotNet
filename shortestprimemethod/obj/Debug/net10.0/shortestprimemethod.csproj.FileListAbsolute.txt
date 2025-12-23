@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.AssemblyInfo.cs
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\shortestprimemethod\bin\Debug\net10.0\shortestprimemethod.exe
+C:\Users\nites\dotanet\shortestprimemethod\bin\Debug\net10.0\shortestprimemethod.deps.json
+C:\Users\nites\dotanet\shortestprimemethod\bin\Debug\net10.0\shortestprimemethod.runtimeconfig.json
+C:\Users\nites\dotanet\shortestprimemethod\bin\Debug\net10.0\shortestprimemethod.dll
+C:\Users\nites\dotanet\shortestprimemethod\bin\Debug\net10.0\shortestprimemethod.pdb
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.dll
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\refint\shortestprimemethod.dll
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.pdb
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\shortestprimemethod.genruntimeconfig.cache
+C:\Users\nites\dotanet\shortestprimemethod\obj\Debug\net10.0\ref\shortestprimemethod.dll

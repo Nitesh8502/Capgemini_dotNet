@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\bin\Debug\net10.0\outkeyword.exe
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\bin\Debug\net10.0\outkeyword.deps.json
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\bin\Debug\net10.0\outkeyword.runtimeconfig.json
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\bin\Debug\net10.0\outkeyword.dll
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\bin\Debug\net10.0\outkeyword.pdb
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.AssemblyInfo.cs
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.dll
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\refint\outkeyword.dll
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.pdb
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\outkeyword.genruntimeconfig.cache
+C:\Users\nites\dotanet\practiccodesday3\outkeyword\obj\Debug\net10.0\ref\outkeyword.dll

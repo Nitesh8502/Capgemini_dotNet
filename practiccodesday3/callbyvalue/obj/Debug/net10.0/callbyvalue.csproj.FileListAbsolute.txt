@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\bin\Debug\net10.0\callbyvalue.exe
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\bin\Debug\net10.0\callbyvalue.deps.json
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\bin\Debug\net10.0\callbyvalue.runtimeconfig.json
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\bin\Debug\net10.0\callbyvalue.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\bin\Debug\net10.0\callbyvalue.pdb
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.AssemblyInfo.cs
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\refint\callbyvalue.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.pdb
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\callbyvalue.genruntimeconfig.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyvalue\obj\Debug\net10.0\ref\callbyvalue.dll

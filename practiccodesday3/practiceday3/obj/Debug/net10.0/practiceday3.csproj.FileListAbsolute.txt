@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\practiceday3\bin\Debug\net10.0\practiceday3.exe
+C:\Users\nites\dotanet\practiceday3\bin\Debug\net10.0\practiceday3.deps.json
+C:\Users\nites\dotanet\practiceday3\bin\Debug\net10.0\practiceday3.runtimeconfig.json
+C:\Users\nites\dotanet\practiceday3\bin\Debug\net10.0\practiceday3.dll
+C:\Users\nites\dotanet\practiceday3\bin\Debug\net10.0\practiceday3.pdb
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.AssemblyInfo.cs
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.dll
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\refint\practiceday3.dll
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.pdb
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\practiceday3.genruntimeconfig.cache
+C:\Users\nites\dotanet\practiceday3\obj\Debug\net10.0\ref\practiceday3.dll

@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.AssemblyInfo.cs
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\day4\carinfosystem\bin\Debug\net10.0\carinfosystem.exe
+C:\Users\nites\dotanet\day4\carinfosystem\bin\Debug\net10.0\carinfosystem.deps.json
+C:\Users\nites\dotanet\day4\carinfosystem\bin\Debug\net10.0\carinfosystem.runtimeconfig.json
+C:\Users\nites\dotanet\day4\carinfosystem\bin\Debug\net10.0\carinfosystem.dll
+C:\Users\nites\dotanet\day4\carinfosystem\bin\Debug\net10.0\carinfosystem.pdb
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.dll
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\refint\carinfosystem.dll
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.pdb
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\carinfosystem.genruntimeconfig.cache
+C:\Users\nites\dotanet\day4\carinfosystem\obj\Debug\net10.0\ref\carinfosystem.dll

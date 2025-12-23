@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.AssemblyInfo.cs
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\leapyear\practice21\bin\Debug\net10.0\practice21.exe
+C:\Users\nites\dotanet\leapyear\practice21\bin\Debug\net10.0\practice21.deps.json
+C:\Users\nites\dotanet\leapyear\practice21\bin\Debug\net10.0\practice21.runtimeconfig.json
+C:\Users\nites\dotanet\leapyear\practice21\bin\Debug\net10.0\practice21.dll
+C:\Users\nites\dotanet\leapyear\practice21\bin\Debug\net10.0\practice21.pdb
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.dll
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\refint\practice21.dll
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.pdb
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\practice21.genruntimeconfig.cache
+C:\Users\nites\dotanet\leapyear\practice21\obj\Debug\net10.0\ref\practice21.dll

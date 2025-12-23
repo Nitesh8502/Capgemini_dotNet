@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\practiccodesday3\callbyref\bin\Debug\net10.0\callbyref.exe
+C:\Users\nites\dotanet\practiccodesday3\callbyref\bin\Debug\net10.0\callbyref.deps.json
+C:\Users\nites\dotanet\practiccodesday3\callbyref\bin\Debug\net10.0\callbyref.runtimeconfig.json
+C:\Users\nites\dotanet\practiccodesday3\callbyref\bin\Debug\net10.0\callbyref.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyref\bin\Debug\net10.0\callbyref.pdb
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.AssemblyInfo.cs
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\refint\callbyref.dll
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.pdb
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\callbyref.genruntimeconfig.cache
+C:\Users\nites\dotanet\practiccodesday3\callbyref\obj\Debug\net10.0\ref\callbyref.dll

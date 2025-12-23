@@ -1,0 +1,14 @@
+C:\Users\nites\dotanet\day4\personalinfo\bin\Debug\net10.0\personalinfo.exe
+C:\Users\nites\dotanet\day4\personalinfo\bin\Debug\net10.0\personalinfo.deps.json
+C:\Users\nites\dotanet\day4\personalinfo\bin\Debug\net10.0\personalinfo.runtimeconfig.json
+C:\Users\nites\dotanet\day4\personalinfo\bin\Debug\net10.0\personalinfo.dll
+C:\Users\nites\dotanet\day4\personalinfo\bin\Debug\net10.0\personalinfo.pdb
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.AssemblyInfo.cs
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.dll
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\refint\personalinfo.dll
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.pdb
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\personalinfo.genruntimeconfig.cache
+C:\Users\nites\dotanet\day4\personalinfo\obj\Debug\net10.0\ref\personalinfo.dll
