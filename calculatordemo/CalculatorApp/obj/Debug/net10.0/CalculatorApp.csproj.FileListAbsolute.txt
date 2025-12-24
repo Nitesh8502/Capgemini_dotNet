@@ -12,3 +12,4 @@ C:\Users\nites\dotanet\calculatordemo\CalculatorApp\obj\Debug\net10.0\refint\Cal
 C:\Users\nites\dotanet\calculatordemo\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb
 C:\Users\nites\dotanet\calculatordemo\CalculatorApp\obj\Debug\net10.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\nites\dotanet\calculatordemo\CalculatorApp\obj\Debug\net10.0\ref\CalculatorApp.dll
+C:\Users\nites\dotanet\calculatordemo\CalculatorApp\obj\Debug\net10.0\CalculatorApp.sourcelink.json
