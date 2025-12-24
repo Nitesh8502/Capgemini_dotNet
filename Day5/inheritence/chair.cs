@@ -7,7 +7,7 @@ class Chair : Furniture
     num = Convert.ToInt32(Console.ReadLine());
 
     Console.WriteLine("Enter color:");
-    color = Console.ReadLine();
+    color = Console.ReadLine() ?? string.Empty;
 
     Console.WriteLine("Enter width:");
     width = Convert.ToInt32(Console.ReadLine());

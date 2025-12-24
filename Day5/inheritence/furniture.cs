@@ -5,6 +5,15 @@ public abstract class Furniture
   protected string color;
   protected int width;
   protected int height;
+
+  public Furniture()
+  {
+    num = 0;
+    color = string.Empty;
+    width = 0;
+    height = 0;
+  }
+
   public abstract void Accept();
   public abstract void Display();
 
@@ -12,5 +21,5 @@ public abstract class Furniture
   {
     Console.WriteLine("Mymethod");
   }
-  
+
 }
