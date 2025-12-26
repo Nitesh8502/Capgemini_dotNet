@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\bin\Debug\net10.0\unitconvertor.exe
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\bin\Debug\net10.0\unitconvertor.deps.json
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\bin\Debug\net10.0\unitconvertor.runtimeconfig.json
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\bin\Debug\net10.0\unitconvertor.dll
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\bin\Debug\net10.0\unitconvertor.pdb
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.AssemblyInfo.cs
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.sourcelink.json
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.dll
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\refint\unitconvertor.dll
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.pdb
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\unitconvertor.genruntimeconfig.cache
+C:\Users\nites\dotanet\Day5\scenariobased\unitconvertor\obj\Debug\net10.0\ref\unitconvertor.dll
