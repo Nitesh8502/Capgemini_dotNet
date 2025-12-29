@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 class Program
 {
   public static void Main(string[] args)
@@ -29,7 +29,7 @@ class Program
       Console.WriteLine($"arr[{i}] = {arr[i]}");
     }
 
-    
+
     Console.Write("Enter number of characters: ");
     int m;
     while (!int.TryParse(Console.ReadLine(), out m) || m < 1)
@@ -55,5 +55,16 @@ class Program
     {
       Console.WriteLine($"carr[{i}] = {carr[i]}");
     }
+
+    int total = Sum(arr);
+    Console.WriteLine($"Sum of integer array elements: {total}");
+  }
+
+  public static int Sum(int[] a)
+  {
+    int s = 0;
+    foreach (int v in a)
+      s += v;
+    return s;
   }
 }
