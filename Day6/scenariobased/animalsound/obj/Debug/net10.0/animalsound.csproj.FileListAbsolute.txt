@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.AssemblyInfo.cs
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.sourcelink.json
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\bin\Debug\net10.0\animalsound.exe
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\bin\Debug\net10.0\animalsound.deps.json
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\bin\Debug\net10.0\animalsound.runtimeconfig.json
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\bin\Debug\net10.0\animalsound.dll
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\bin\Debug\net10.0\animalsound.pdb
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.dll
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\refint\animalsound.dll
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.pdb
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\animalsound.genruntimeconfig.cache
+C:\Users\nites\dotanet\day6\scenariobased\animalsound\obj\Debug\net10.0\ref\animalsound.dll

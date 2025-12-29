@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\test27dec\question2\bin\Debug\net10.0\question2.exe
+C:\Users\nites\dotanet\test27dec\question2\bin\Debug\net10.0\question2.deps.json
+C:\Users\nites\dotanet\test27dec\question2\bin\Debug\net10.0\question2.runtimeconfig.json
+C:\Users\nites\dotanet\test27dec\question2\bin\Debug\net10.0\question2.dll
+C:\Users\nites\dotanet\test27dec\question2\bin\Debug\net10.0\question2.pdb
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.AssemblyInfo.cs
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.sourcelink.json
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.dll
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\refint\question2.dll
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.pdb
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\question2.genruntimeconfig.cache
+C:\Users\nites\dotanet\test27dec\question2\obj\Debug\net10.0\ref\question2.dll

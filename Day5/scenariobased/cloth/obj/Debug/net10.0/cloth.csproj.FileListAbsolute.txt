@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\day5\scenariobased\cloth\bin\Debug\net10.0\cloth.exe
+C:\Users\nites\dotanet\day5\scenariobased\cloth\bin\Debug\net10.0\cloth.deps.json
+C:\Users\nites\dotanet\day5\scenariobased\cloth\bin\Debug\net10.0\cloth.runtimeconfig.json
+C:\Users\nites\dotanet\day5\scenariobased\cloth\bin\Debug\net10.0\cloth.dll
+C:\Users\nites\dotanet\day5\scenariobased\cloth\bin\Debug\net10.0\cloth.pdb
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.AssemblyInfo.cs
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.sourcelink.json
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.dll
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\refint\cloth.dll
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.pdb
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\cloth.genruntimeconfig.cache
+C:\Users\nites\dotanet\day5\scenariobased\cloth\obj\Debug\net10.0\ref\cloth.dll

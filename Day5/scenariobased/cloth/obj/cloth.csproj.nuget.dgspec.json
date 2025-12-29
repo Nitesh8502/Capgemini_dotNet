@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nites\\dotanet\\Day5\\scenariobased\\cloth\\cloth.csproj": {}
+    "C:\\Users\\nites\\dotanet\\day5\\scenariobased\\cloth\\cloth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nites\\dotanet\\Day5\\scenariobased\\cloth\\cloth.csproj": {
+    "C:\\Users\\nites\\dotanet\\day5\\scenariobased\\cloth\\cloth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nites\\dotanet\\Day5\\scenariobased\\cloth\\cloth.csproj",
+        "projectUniqueName": "C:\\Users\\nites\\dotanet\\day5\\scenariobased\\cloth\\cloth.csproj",
         "projectName": "cloth",
-        "projectPath": "C:\\Users\\nites\\dotanet\\Day5\\scenariobased\\cloth\\cloth.csproj",
+        "projectPath": "C:\\Users\\nites\\dotanet\\day5\\scenariobased\\cloth\\cloth.csproj",
         "packagesPath": "C:\\Users\\nites\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nites\\dotanet\\Day5\\scenariobased\\cloth\\obj\\",
+        "outputPath": "C:\\Users\\nites\\dotanet\\day5\\scenariobased\\cloth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
