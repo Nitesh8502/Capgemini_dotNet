@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.AssemblyInfo.cs
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.sourcelink.json
+C:\Users\nites\dotanet\30dec\practice\bin\Debug\net10.0\practice.exe
+C:\Users\nites\dotanet\30dec\practice\bin\Debug\net10.0\practice.deps.json
+C:\Users\nites\dotanet\30dec\practice\bin\Debug\net10.0\practice.runtimeconfig.json
+C:\Users\nites\dotanet\30dec\practice\bin\Debug\net10.0\practice.dll
+C:\Users\nites\dotanet\30dec\practice\bin\Debug\net10.0\practice.pdb
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.dll
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\refint\practice.dll
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.pdb
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
+C:\Users\nites\dotanet\30dec\practice\obj\Debug\net10.0\ref\practice.dll
