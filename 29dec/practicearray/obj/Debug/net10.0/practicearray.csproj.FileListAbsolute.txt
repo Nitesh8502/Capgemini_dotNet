@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\29dec\practicearray\bin\Debug\net10.0\practicearray.exe
+C:\Users\nites\dotanet\29dec\practicearray\bin\Debug\net10.0\practicearray.deps.json
+C:\Users\nites\dotanet\29dec\practicearray\bin\Debug\net10.0\practicearray.runtimeconfig.json
+C:\Users\nites\dotanet\29dec\practicearray\bin\Debug\net10.0\practicearray.dll
+C:\Users\nites\dotanet\29dec\practicearray\bin\Debug\net10.0\practicearray.pdb
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.AssemblyInfo.cs
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.sourcelink.json
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.dll
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\refint\practicearray.dll
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.pdb
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\practicearray.genruntimeconfig.cache
+C:\Users\nites\dotanet\29dec\practicearray\obj\Debug\net10.0\ref\practicearray.dll
