@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.AssemblyInfo.cs
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.sourcelink.json
+C:\Users\nites\dotanet\2jan\stringbuilder\bin\Debug\net10.0\stringbuilder.exe
+C:\Users\nites\dotanet\2jan\stringbuilder\bin\Debug\net10.0\stringbuilder.deps.json
+C:\Users\nites\dotanet\2jan\stringbuilder\bin\Debug\net10.0\stringbuilder.runtimeconfig.json
+C:\Users\nites\dotanet\2jan\stringbuilder\bin\Debug\net10.0\stringbuilder.dll
+C:\Users\nites\dotanet\2jan\stringbuilder\bin\Debug\net10.0\stringbuilder.pdb
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.dll
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\refint\stringbuilder.dll
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.pdb
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\stringbuilder.genruntimeconfig.cache
+C:\Users\nites\dotanet\2jan\stringbuilder\obj\Debug\net10.0\ref\stringbuilder.dll
