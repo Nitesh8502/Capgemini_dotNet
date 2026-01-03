@@ -27,6 +27,84 @@ internal class Program
         //dynamic y = 10;
         //y = "Hello";   // ✔ allowed
         //Console.WriteLine(y);
+        
+        List<string> empName=new List<string>();
+        empName.Add("Rajesh");
+        Employee employee1=new Employee()
+        {
+            Id=10,
+            Name="Ramesh"
+        };
+        Employee employee2=new Employee()
+        {
+            Id=20,
+            Name="lamesh"
+        };
+
+        List<Employee> employees=new List<Employee>();
+        employees.Add(employee1);
+        employees.Add(employee2);
+        
+        foreach(Employee e in employees)
+        {
+            Console.WriteLine(e);
+        }
+
+        Dictionary<int,string> directory=new Dictionary<int,string>();
+        directory.Add(100,"nitesh");
+        directory.Add(200,"jiteshsh");
+
+        foreach(KeyValuePair<int,string> key in directory)
+        {
+            Console.WriteLine($"key is {key.Key} value is {key.Value}");
+        }
+
+        SortedList<string,string> pairs=new SortedList<string,string>();
+        pairs.Add("100","Rajesh");
+        pairs.Add("200","kamajesh");
+        pairs.Add("100","ramlalesh");
+        Console.WriteLine("\n\n generic sorted list");
+        foreach(KeyValuePair<int,string> key in pairs)
+        {
+            Console.WriteLine($"key is {key.Key} value is {key.Value}");
+        }
+
+        Stack<char> stack=new Stack<char>();
+        stack.Push('A');
+        stack.Push('B');
+        stack.Push('C');
+        stack.Push('D');
+        stack.Push('E');
+
+        foreach(var item in stack)
+        {
+            Console.WriteLine(item);
+        }
+        stack.Pop();
+        Console.WriteLine("after removindg peak");
+        foreach(var item in stack)
+        {
+            Console.WriteLine(item);
+        }
+
+        Queue<char> queue=new Queue<char>();
+        queue.Enqueue('A');
+        queue.Enqueue('B');
+        queue.Enqueue('C');
+        queue.Enqueue('D');
+        queue.Enqueue('E');
+
+        foreach(var item in queue)
+        {
+            Console.WriteLine($"{item} ");
+        }
+
+        queue.Dequeue();
+        Console.WriteLine("after dequeing from queue ");
+        foreach(var item in queue)
+        {
+            Console.WriteLine($"{item} ");
+        }
 
 
         AddClass addClass = new AddClass();

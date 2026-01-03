@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\3jan\boxingunboxing\bin\Debug\net10.0\boxingunboxing.exe
+C:\Users\nites\dotanet\3jan\boxingunboxing\bin\Debug\net10.0\boxingunboxing.deps.json
+C:\Users\nites\dotanet\3jan\boxingunboxing\bin\Debug\net10.0\boxingunboxing.runtimeconfig.json
+C:\Users\nites\dotanet\3jan\boxingunboxing\bin\Debug\net10.0\boxingunboxing.dll
+C:\Users\nites\dotanet\3jan\boxingunboxing\bin\Debug\net10.0\boxingunboxing.pdb
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.AssemblyInfo.cs
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.sourcelink.json
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.dll
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\refint\boxingunboxing.dll
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.pdb
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\boxingunboxing.genruntimeconfig.cache
+C:\Users\nites\dotanet\3jan\boxingunboxing\obj\Debug\net10.0\ref\boxingunboxing.dll
