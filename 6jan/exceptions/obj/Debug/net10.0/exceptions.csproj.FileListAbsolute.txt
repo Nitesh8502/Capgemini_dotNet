@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\6jan\exceptions\bin\Debug\net10.0\exceptions.exe
+C:\Users\nites\dotanet\6jan\exceptions\bin\Debug\net10.0\exceptions.deps.json
+C:\Users\nites\dotanet\6jan\exceptions\bin\Debug\net10.0\exceptions.runtimeconfig.json
+C:\Users\nites\dotanet\6jan\exceptions\bin\Debug\net10.0\exceptions.dll
+C:\Users\nites\dotanet\6jan\exceptions\bin\Debug\net10.0\exceptions.pdb
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.AssemblyInfo.cs
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.sourcelink.json
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.dll
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\refint\exceptions.dll
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.pdb
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\exceptions.genruntimeconfig.cache
+C:\Users\nites\dotanet\6jan\exceptions\obj\Debug\net10.0\ref\exceptions.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 class Program
 {
   public static void Main()
@@ -14,5 +15,6 @@ class Program
     {
       Console.WriteLine(employee[i]);
     }
+    Public DivideByZeroException();
   }
 }
