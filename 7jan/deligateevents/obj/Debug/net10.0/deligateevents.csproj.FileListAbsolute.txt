@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.AssemblyInfo.cs
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.sourcelink.json
+C:\Users\nites\dotanet\7jan\deligateevents\bin\Debug\net10.0\deligateevents.exe
+C:\Users\nites\dotanet\7jan\deligateevents\bin\Debug\net10.0\deligateevents.deps.json
+C:\Users\nites\dotanet\7jan\deligateevents\bin\Debug\net10.0\deligateevents.runtimeconfig.json
+C:\Users\nites\dotanet\7jan\deligateevents\bin\Debug\net10.0\deligateevents.dll
+C:\Users\nites\dotanet\7jan\deligateevents\bin\Debug\net10.0\deligateevents.pdb
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.dll
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\refint\deligateevents.dll
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.pdb
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\deligateevents.genruntimeconfig.cache
+C:\Users\nites\dotanet\7jan\deligateevents\obj\Debug\net10.0\ref\deligateevents.dll
