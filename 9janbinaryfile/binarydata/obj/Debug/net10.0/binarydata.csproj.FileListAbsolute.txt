@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.AssemblyInfo.cs
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.sourcelink.json
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\bin\Debug\net10.0\binarydata.exe
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\bin\Debug\net10.0\binarydata.deps.json
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\bin\Debug\net10.0\binarydata.runtimeconfig.json
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\bin\Debug\net10.0\binarydata.dll
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\bin\Debug\net10.0\binarydata.pdb
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.dll
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\refint\binarydata.dll
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.pdb
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\binarydata.genruntimeconfig.cache
+C:\Users\nites\dotanet\9janbinaryfile\binarydata\obj\Debug\net10.0\ref\binarydata.dll

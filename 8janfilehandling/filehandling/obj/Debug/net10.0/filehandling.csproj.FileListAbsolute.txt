@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.AssemblyInfo.cs
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.sourcelink.json
+C:\Users\nites\dotanet\8janfilehandling\filehandling\bin\Debug\net10.0\filehandling.exe
+C:\Users\nites\dotanet\8janfilehandling\filehandling\bin\Debug\net10.0\filehandling.deps.json
+C:\Users\nites\dotanet\8janfilehandling\filehandling\bin\Debug\net10.0\filehandling.runtimeconfig.json
+C:\Users\nites\dotanet\8janfilehandling\filehandling\bin\Debug\net10.0\filehandling.dll
+C:\Users\nites\dotanet\8janfilehandling\filehandling\bin\Debug\net10.0\filehandling.pdb
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.dll
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\refint\filehandling.dll
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.pdb
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\filehandling.genruntimeconfig.cache
+C:\Users\nites\dotanet\8janfilehandling\filehandling\obj\Debug\net10.0\ref\filehandling.dll
