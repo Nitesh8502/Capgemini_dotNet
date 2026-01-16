@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\10jantasks\musicalbum\bin\Debug\net10.0\musicalbum.exe
+C:\Users\nites\dotanet\10jantasks\musicalbum\bin\Debug\net10.0\musicalbum.deps.json
+C:\Users\nites\dotanet\10jantasks\musicalbum\bin\Debug\net10.0\musicalbum.runtimeconfig.json
+C:\Users\nites\dotanet\10jantasks\musicalbum\bin\Debug\net10.0\musicalbum.dll
+C:\Users\nites\dotanet\10jantasks\musicalbum\bin\Debug\net10.0\musicalbum.pdb
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.AssemblyInfo.cs
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.sourcelink.json
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.dll
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\refint\musicalbum.dll
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.pdb
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\musicalbum.genruntimeconfig.cache
+C:\Users\nites\dotanet\10jantasks\musicalbum\obj\Debug\net10.0\ref\musicalbum.dll

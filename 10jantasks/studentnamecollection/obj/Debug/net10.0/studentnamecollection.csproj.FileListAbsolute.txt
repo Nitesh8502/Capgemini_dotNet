@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.AssemblyInfo.cs
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.sourcelink.json
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\bin\Debug\net10.0\studentnamecollection.exe
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\bin\Debug\net10.0\studentnamecollection.deps.json
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\bin\Debug\net10.0\studentnamecollection.runtimeconfig.json
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\bin\Debug\net10.0\studentnamecollection.dll
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\bin\Debug\net10.0\studentnamecollection.pdb
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.dll
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\refint\studentnamecollection.dll
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.pdb
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\studentnamecollection.genruntimeconfig.cache
+C:\Users\nites\dotanet\10jantasks\studentnamecollection\obj\Debug\net10.0\ref\studentnamecollection.dll
